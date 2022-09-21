@@ -18,7 +18,7 @@
     <li>Log tutma işlemleri <a href="https://serilog.net">Serilog</a> kütüphanesi aracılığıyla yapılmıştır.</li>
     <li>E-Posta gönderme sisteminin entegrasyonu <a href="https://www.nuget.org/packages/MailKit/">MailKit</a> kütüphanesi aracılığıyla yapılmıştır.</li>
     <li>E-Posta gönderme işlemi SMTP protokolü kullanılarak <a href="https://www.hangfire.io">Hangfire</a> servisi ile background worker olarak gerçekleştirilmiştir.</li>
-    <li>Veritabanına ait script kodlarına <a href="" target="_blank">bu linkten</a> erişilebilir. (VPN gerekebilir.)</li>
+    <li>Veritabanı ait backup'a <a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/PayCore_Final_Work_DB_Script.sql" target="_blank">bu linkten</a> erişilebilir.</li>
 </ul>
 
 <hr />
