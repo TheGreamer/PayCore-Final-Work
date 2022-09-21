@@ -88,12 +88,12 @@
                 <ul>
                     <li>Abstract
                         <ul>
-                            <li><a href="" target="_blank"><b>ICoreEntity.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/Entity/Abstract/ICoreEntity.cs" target="_blank"><b>ICoreEntity.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Concrete
                         <ul>
-                            <li><a href="" target="_blank"><b>CoreEntity.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/Entity/Concrete/CoreEntity.cs" target="_blank"><b>CoreEntity.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -102,7 +102,7 @@
                 <ul>
                     <li>Abstract
                         <ul>
-                            <li><a href="" target="_blank"><b>ICoreDto.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/Dto/Abstract/ICoreDto.cs" target="_blank"><b>ICoreDto.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -111,13 +111,13 @@
                 <ul>
                     <li>Abstract
                         <ul>
-                            <li><a href="" target="_blank"><b>ICoreSession.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>IHelperSession.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/DataAccess/Abstract/ICoreSession.cs" target="_blank"><b>ICoreSession.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/DataAccess/Abstract/IHelperSession.cs" target="_blank"><b>IHelperSession.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Concrete
                         <ul>
-                            <li><a href="" target="_blank"><b>CoreSession.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/DataAccess/Concrete/CoreSession.cs" target="_blank"><b>CoreSession.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -126,13 +126,13 @@
                 <ul>
                     <li>Abstract
                         <ul>
-                            <li><a href="" target="_blank"><b>ICoreService.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>IService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/Business/Abstract/ICoreService.cs" target="_blank"><b>ICoreService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/Business/Abstract/IService.cs" target="_blank"><b>IService.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Concrete
                         <ul>
-                            <li><a href="" target="_blank"><b>CoreService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/Business/Concrete/CoreService.cs" target="_blank"><b>CoreService.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -141,45 +141,45 @@
                 <ul>
                     <li>Abstract
                         <ul>
-                            <li><a href="" target="_blank"><b>ICoreController.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Abstract/ICoreController.cs" target="_blank"><b>ICoreController.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Concrete
                         <ul>
                             <li>Controllers
                                 <ul>
-                                    <li><a href="" target="_blank"><b>CoreController.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Controllers/CoreController.cs" target="_blank"><b>CoreController.cs</b></a></li>
                                 </ul>
                             </li>
                             <li>Extensions
                                 <ul>
-                                    <li><a href="" target="_blank"><b>CustomAuthExtension.cs</b></a></li>
-                                    <li><a href="" target="_blank"><b>CustomSwaggerExtension.cs</b></a></li>
-                                    <li><a href="" target="_blank"><b>NHibernateExtension.cs</b></a></li>
-                                    <li><a href="" target="_blank"><b>ServiceExtension.cs</b></a></li>
-                                    <li><a href="" target="_blank"><b>SwaggerFileOperationFilterExtension.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Extensions/CustomAuthExtension.cs" target="_blank"><b>CustomAuthExtension.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Extensions/CustomSwaggerExtension.cs" target="_blank"><b>CustomSwaggerExtension.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Extensions/NHibernateExtension.cs" target="_blank"><b>NHibernateExtension.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Extensions/ServiceExtension.cs" target="_blank"><b>ServiceExtension.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Extensions/SwaggerFileOperationFilterExtension.cs" target="_blank"><b>SwaggerFileOperationFilterExtension.cs</b></a></li>
                                 </ul>
                             </li>
                             <li>Jwt
                                 <ul>
-                                    <li><a href="" target="_blank"><b>JwtConfig.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Jwt/JwtConfig.cs" target="_blank"><b>JwtConfig.cs</b></a></li>
                                 </ul>
                             </li>
                             <li>Requests
                                 <ul>
-                                    <li><a href="" target="_blank"><b>TokenRequest.cs</b></a></li>
-                                    <li><a href="" target="_blank"><b>BuyProductRequest.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Requests/TokenRequest.cs" target="_blank"><b>TokenRequest.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Requests/BuyProductRequest.cs" target="_blank"><b>BuyProductRequest.cs</b></a></li>
                                 </ul>
                             </li>
                             <li>Responses
                                 <ul>
-                                    <li><a href="" target="_blank"><b>CoreResponse.cs</b></a></li>
-                                    <li><a href="" target="_blank"><b>TokenResponse.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Responses/CoreResponse.cs" target="_blank"><b>CoreResponse.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Responses/TokenResponse.cs" target="_blank"><b>TokenResponse.cs</b></a></li>
                                 </ul>
                             </li>
                             <li>Utilities
                                 <ul>
-                                    <li><a href="" target="_blank"><b>DateTimeConverter.cs</b></a></li>
+                                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/WebAPI/Concrete/Utilities/DateTimeConverter.cs" target="_blank"><b>DateTimeConverter.cs</b></a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -188,12 +188,12 @@
             </li>
             <li>Enums
                 <ul>
-                    <li><a href="" target="_blank"><b>Enums.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/Enums/Enums.cs" target="_blank"><b>Enums.cs</b></a></li>
                 </ul>
             </li>
             <li>Constants
                 <ul>
-                    <li><a href="" target="_blank"><b>SystemMessage.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Core/Constants/SystemMessage.cs" target="_blank"><b>SystemMessage.cs</b></a></li>
                 </ul>
             </li>
         </ul>
@@ -204,18 +204,18 @@
                 <ul>
                     <li>Entities
                         <ul>
-                            <li><a href="" target="_blank"><b>Account.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>Category.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>Offer.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>Product.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Entity/Concrete/Entities/Account.cs" target="_blank"><b>Account.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Entity/Concrete/Entities/Category.cs" target="_blank"><b>Category.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Entity/Concrete/Entities/Offer.cs" target="_blank"><b>Offer.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Entity/Concrete/Entities/Product.cs" target="_blank"><b>Product.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Mappings
                         <ul>
-                            <li><a href="" target="_blank"><b>AccountMap.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>CategoryMap.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>OfferMap.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>ProductMap.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Entity/Concrete/Mappings/AccountMap.cs" target="_blank"><b>AccountMap.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Entity/Concrete/Mappings/CategoryMap.cs" target="_blank"><b>CategoryMap.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Entity/Concrete/Mappings/OfferMap.cs" target="_blank"><b>OfferMap.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Entity/Concrete/Mappings/ProductMap.cs" target="_blank"><b>ProductMap.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -226,11 +226,11 @@
         <ul>
             <li>Concrete
                 <ul>
-                    <li><a href="" target="_blank"><b>AccountDto.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>CategoryDto.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>OfferDto.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>ProductDto.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>EmailDto.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Dto/Concrete/AccountDto.cs" target="_blank"><b>AccountDto.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Dto/Concrete/CategoryDto.cs" target="_blank"><b>CategoryDto.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Dto/Concrete/OfferDto.cs" target="_blank"><b>OfferDto.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Dto/Concrete/ProductDto.cs" target="_blank"><b>ProductDto.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Dto/Concrete/EmailDto.cs" target="_blank"><b>EmailDto.cs</b></a></li>
                 </ul>
             </li>
         </ul>
@@ -239,18 +239,18 @@
         <ul>
             <li>Abstract
                 <ul>
-                    <li><a href="" target="_blank"><b>IAccountSession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>ICategorySession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>IOfferSession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>IProductSession.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/DataAccess/Abstract/IAccountSession.cs" target="_blank"><b>IAccountSession.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/DataAccess/Abstract/ICategorySession.cs" target="_blank"><b>ICategorySession.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/DataAccess/Abstract/IOfferSession.cs" target="_blank"><b>IOfferSession.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/DataAccess/Abstract/IProductSession.cs" target="_blank"><b>IProductSession.cs</b></a></li>
                 </ul>
             </li>
             <li>Concrete
                 <ul>
-                    <li><a href="" target="_blank"><b>AccountSession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>CategorySession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>OfferSession.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>ProductSession.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/DataAccess/Concrete/AccountSession.cs" target="_blank"><b>AccountSession.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/DataAccess/Concrete/CategorySession.cs" target="_blank"><b>CategorySession.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/DataAccess/Concrete/OfferSession.cs" target="_blank"><b>OfferSession.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/DataAccess/Concrete/ProductSession.cs" target="_blank"><b>ProductSession.cs</b></a></li>
                 </ul>
             </li>
         </ul>
@@ -259,44 +259,44 @@
         <ul>
             <li>Abstract
                 <ul>
-                    <li><a href="" target="_blank"><b>IAccountService.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>ICategoryService.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>IOfferService.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>IProductService.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>ITokenService.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>IEmailService.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Abstract/IAccountService.cs" target="_blank"><b>IAccountService.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Abstract/ICategoryService.cs" target="_blank"><b>ICategoryService.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Abstract/IOfferService.cs" target="_blank"><b>IOfferService.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Abstract/IProductService.cs" target="_blank"><b>IProductService.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Abstract/ITokenService.cs" target="_blank"><b>ITokenService.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Abstract/IEmailService.cs" target="_blank"><b>IEmailService.cs</b></a></li>
                 </ul>
             </li>
             <li>Concrete
                 <ul>
                     <li>Mapping Profiles
                         <ul>
-                            <li><a href="" target="_blank"><b>MappingProfile.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/MappingProfiles/MappingProfile.cs" target="_blank"><b>MappingProfile.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Services
                         <ul>
-                            <li><a href="" target="_blank"><b>AccountService.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>CategoryService.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>OfferService.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>ProductService.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>TokenService.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>EmailService.cs</b></a> (Bu servis yerine EmailBackgroundService.cs kullanılmaktadır. İncelemek isteyenlere örnek olması açısından kaldırılmadı.)</li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/Services/AccountService.cs" target="_blank"><b>AccountService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/Services/CategoryService.cs" target="_blank"><b>CategoryService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/Services/OfferService.cs" target="_blank"><b>OfferService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/Services/ProductService.cs" target="_blank"><b>ProductService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/Services/TokenService.cs" target="_blank"><b>TokenService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/Services/EmailService.cs" target="_blank"><b>EmailService.cs</b></a> (Bu servis yerine EmailBackgroundService.cs kullanılmaktadır. İncelemek isteyenlere örnek olması açısından kaldırılmadı.)</li>
                         </ul>
                     </li>
                     <li>Static Services
                         <ul>
-                            <li><a href="" target="_blank"><b>EncryptionService.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>EmailBackgroundService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/StaticServices/EncryptionService.cs" target="_blank"><b>EncryptionService.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/StaticServices/EmailBackgroundService.cs" target="_blank"><b>EmailBackgroundService.cs</b></a></li>
                         </ul>
                     </li>
                     <li>Validation Rules
                         <ul>
-                            <li><a href="" target="_blank"><b>AccountValidator.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>CategoryValidator.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>LoginValidator.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>OfferValidator.cs</b></a></li>
-                            <li><a href="" target="_blank"><b>ProductValidator.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/ValidationRules/AccountValidator.cs" target="_blank"><b>AccountValidator.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/ValidationRules/CategoryValidator.cs" target="_blank"><b>CategoryValidator.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/ValidationRules/LoginValidator.cs" target="_blank"><b>LoginValidator.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/ValidationRules/OfferValidator.cs" target="_blank"><b>OfferValidator.cs</b></a></li>
+                            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Business/Concrete/ValidationRules/ProductValidator.cs" target="_blank"><b>ProductValidator.cs</b></a></li>
                         </ul>
                     </li>
                 </ul>
@@ -307,16 +307,16 @@
         <ul>
             <li>Controllers
                 <ul>
-                    <li><a href="" target="_blank"><b>AccountsController.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>AuthController.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>CategoriesController.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>OffersController.cs</b></a></li>
-                    <li><a href="" target="_blank"><b>ProductsController.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/WebAPI/Controllers/AccountsController.cs" target="_blank"><b>AccountsController.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/WebAPI/Controllers/AuthController.cs" target="_blank"><b>AuthController.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/WebAPI/Controllers/CategoriesController.cs" target="_blank"><b>CategoriesController.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/WebAPI/Controllers/OffersController.cs" target="_blank"><b>OffersController.cs</b></a></li>
+                    <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/WebAPI/Controllers/ProductsController.cs" target="_blank"><b>ProductsController.cs</b></a></li>
                 </ul>
             </li>
-            <li><a href="" target="_blank"><b>Program.cs</b></a></li>
-            <li><a href="" target="_blank"><b>Startup.cs</b></a></li>
-            <li><a href="" target="_blank"><b>appsettings.json</b></a></li>
+            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Program.cs" target="_blank"><b>Program.cs</b></a></li>
+            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/Startup.cs" target="_blank"><b>Startup.cs</b></a></li>
+            <li><a href="https://github.com/TheGreamer/PayCore-Final-Work/blob/master/PayCoreFinalWork.WebAPI/appsettings.json" target="_blank"><b>appsettings.json</b></a></li>
         </ul>
     </li>
 </ul>
