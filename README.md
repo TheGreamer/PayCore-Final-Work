@@ -361,35 +361,75 @@
 <hr />
 <h2><b>👨‍💻 Swagger Action Görünümleri</b></h2>
 <ul>
-    <li>
+    <li><b><code>Auth Controller</code></b>
+       <ul>
+           <li><code><b>Login</b>: <i>Giriş yapma işlemi</i></code></li>
+           <li><code><b>Login</b>: <i>Kayıt olma işlemi</i></code></li>
+       </ul>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
                 <img src="https://i.hizliresim.com/9g7bf73.png" alt="Swagger" style="max-width: 100%;">
             </a>
         </p>
+        <hr />
     </li>
-    <li>
+    <li><b><code>Accounts Controller</code></b>
+       <ul>
+           <li><code><b>Get All</b>: <i>Tüm kullanıcıları listeleme işlemi</i></code></li>
+           <li><code><b>Get By Id</b>: <i>ID'ye göre kullanıcı arama işlemi</i></code></li>
+           <li><code><b>Add</b>: <i>Yeni bir kullanıcı ekleme işlemi <b>(Admin)</b></i></code></li>
+           <li><code><b>Update</b>: <i>Mevcut bir kullanıcıyı güncelleme işlemi <b>(Admin)</b></i></code></li>
+           <li><code><b>Delete</b>: <i>Mevcut bir kullanıcıyı silme işlemi <b>(Admin)</b></i></code></li>
+       </ul>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
                 <img src="https://i.hizliresim.com/sw1j9hl.png" alt="Swagger" style="max-width: 100%;">
             </a>
         </p>
+        <hr />
     </li>
-    <li>
+    <li><b><code>Categories Controller</code></b>
+       <ul>
+           <li><code><b>Get All</b>: <i>Tüm kategorileri listeleme işlemi</i></code></li>
+           <li><code><b>Get By Id</b>: <i>ID'ye göre kategori arama işlemi</i></code></li>
+           <li><code><b>Add</b>: <i>Yeni bir kategori ekleme işlemi</i></code></li>
+           <li><code><b>Update</b>: <i>Mevcut bir kategoriyi güncelleme işlemi</i></code></li>
+           <li><code><b>Delete</b>: <i>Mevcut bir kategoriyi silme işlemi</i></code></li>
+       </ul>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
                 <img src="https://i.hizliresim.com/tuk16zv.png" alt="Swagger" style="max-width: 100%;">
             </a>
         </p>
+        <hr />
     </li>
-    <li>
+    <li><b><code>Products Controller</code></b>
+       <ul>
+           <li><code><b>Get All</b>: <i>Tüm kullanıcıların eklediği ürünleri listeleme işlemi</i></code></li>
+           <li><code><b>Get By Id</b>: <i>ID'ye göre herhangi bir kullanıcının eklediği bir ürünü arama işlemi</i></code></li>
+           <li><code><b>Get Products By Category Id</b>: <i>Ürünleri kategori numarasına göre listeleme işlemi</i></code></li>
+           <li><code><b>Get Products</b>: <i>Giriş yapan kullanıcının kendi ürünlerini listeleme işlemi</i></code></li>
+           <li><code><b>Add</b>: <i>Giriş yapan kullanıcının satışa veya teklife sunabileceği bir ürün ekleme işlemi</i></code></li>
+           <li><code><b>Update</b>: <i>Giriş yapan kullanıcıya ait ürünü güncelleme işlemi</i></code></li>
+           <li><code><b>Delete</b>: <i>Giriş yapan kullanıcıya ait ürünü silme işlemi</i></code></li>
+           <li><code><b>Buy Product</b>: <i>Ürün satın alma işlemi</i></code></li>
+       </ul>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
                 <img src="https://i.hizliresim.com/n686kw0.png" alt="Swagger" style="max-width: 100%;">
             </a>
         </p>
+        <hr />
     </li>
-    <li>
+    <li><b><code>Offers Controller</code></b>
+       <ul>
+           <li><code><b>Get Offers</b>: <i>Giriş yapan kullanıcının diğer kullanıcıların ürünlerine yaptığı teklifleri listeleme işlemi</i></code></li>
+           <li><code><b>Get Received Offers</b>: <i>Giriş yapan kullanıcının diğer kullanıcılar tarafından ürünlerine yapılan teklifleri listeleme işlemi</i></code></li>
+           <li><code><b>Make Offer</b>: <i>Giriş yapan kullanıcının başka kullanıcıların ürünlerine teklifte bulunabilme işlemi</i></code></li>
+           <li><code><b>Update Offer</b>: <i>Giriş yapan kullanıcının başka kullanıcıların ürünlerine yaptığı teklifleri güncelleyebilme işlemi</i></code></li>
+           <li><code><b>Cancel Offer</b>: <i>Giriş yapan kullanıcının başka kullanıcıların ürünlerine yaptığı teklifleri iptal etme işlemi</i></code></li>
+           <li><code><b>Answer Offer</b>: <i>Giriş yapan kullanıcının ürünlerine aldığı teklifleri kabul veya reddedebilme işlemi</i></code></li>
+       </ul>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
                 <img src="https://i.hizliresim.com/qholz54.png" alt="Swagger" style="max-width: 100%;">
