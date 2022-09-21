@@ -364,7 +364,7 @@
     <li><b><code>Auth Controller</code></b>
        <ul>
            <li><code><b>Login</b>: <i>Giriş yapma işlemi</i></code></li>
-           <li><code><b>Login</b>: <i>Kayıt olma işlemi</i></code></li>
+           <li><code><b>Register</b>: <i>Kayıt olma işlemi</i></code></li>
        </ul>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
