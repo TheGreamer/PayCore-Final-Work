@@ -328,7 +328,7 @@
         <h3>🌟 Kategoriler Tablosu</h3>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
-                <img src="https://i.hizliresim.com/mcvhjll.png" alt="Swagger" style="max-width: 100%;">
+                <img src="https://i.hizliresim.com/flrj63w.jpg" alt="Swagger" style="max-width: 100%;">
             </a>
         </p>
     </li>
@@ -336,7 +336,7 @@
         <h3>🌟 Kullanıcılar Tablosu</h3>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
-                <img src="https://i.hizliresim.com/2o1fst0.png" alt="Swagger" style="max-width: 100%;">
+                <img src="https://i.hizliresim.com/b2z9hx0.jpg" alt="Swagger" style="max-width: 100%;">
             </a>
         </p>
     </li>
@@ -344,7 +344,7 @@
         <h3>🌟 Ürünler Tablosu</h3>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
-                <img src="https://i.hizliresim.com/sdudge6.png" alt="Swagger" style="max-width: 100%;">
+                <img src="https://i.hizliresim.com/jfl95c5.jpg" alt="Swagger" style="max-width: 100%;">
             </a>
         </p>
     </li>
@@ -352,7 +352,7 @@
         <h3>🌟 Teklifler Tablosu</h3>
         <p dir="auto">
             <a target="_blank" rel="noopener noreferrer" href="">
-                <img src="https://i.hizliresim.com/2cbo1wp.png" alt="Swagger" style="max-width: 100%;">
+                <img src="https://i.hizliresim.com/9hzuo38.jpg" alt="Swagger" style="max-width: 100%;">
             </a>
         </p>
     </li>
